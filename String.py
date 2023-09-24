@@ -1,0 +1,10 @@
+edu = "Lambert Academy"
+print(edu.lower()) 
+print(edu.upper())
+print(edu.capitalize()) 
+print(edu.upper().isupper())
+print(len(edu))
+print(edu.count('A'))
+print(edu[0])
+print(edu.index("b"))
+print(edu.replace("Lambert", "Edudzi"))
